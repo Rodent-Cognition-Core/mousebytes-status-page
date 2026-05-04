@@ -4,19 +4,19 @@
     "url": "https://mousebytes.ca",
     "icon": "https://icons.duckduckgo.com/ip3/mousebytes.ca.ico",
     "slug": "mouse-bytes-production",
-    "status": "down",
-    "uptime": "99.11%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.11%",
-    "uptimeYear": "99.11%",
-    "time": 1506,
-    "timeDay": 1506,
-    "timeWeek": 1506,
-    "timeMonth": 1506,
-    "timeYear": 1506,
+    "status": "up",
+    "uptime": "78.21%",
+    "uptimeDay": "78.21%",
+    "uptimeWeek": "78.21%",
+    "uptimeMonth": "78.21%",
+    "uptimeYear": "78.21%",
+    "time": 1220,
+    "timeDay": 1220,
+    "timeWeek": 1220,
+    "timeMonth": 1220,
+    "timeYear": 1220,
     "dailyMinutesDown": {
-      "2026-05-04": 1
+      "2026-05-04": 19
     }
   }
 ]
