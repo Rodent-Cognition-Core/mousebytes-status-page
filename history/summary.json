@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mousebytes.ca.ico",
     "slug": "mouse-bytes-production",
     "status": "down",
-    "uptime": "99.53%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.53%",
+    "uptime": "99.11%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "99.11%",
     "time": 1506,
     "timeDay": 1506,
     "timeWeek": 1506,
     "timeMonth": 1506,
     "timeYear": 1506,
     "dailyMinutesDown": {
-      "2026-05-04": 0
+      "2026-05-04": 1
     }
   }
 ]
