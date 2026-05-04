@@ -9,4 +9,4 @@ sites:
 
 notifications:
   - type: slack
-    incomingWebHookUrl: ${{ secrets.SLACK_WEBHOOK_URL }}
+    webhook-url: "$SLACK_WEBHOOK_URL"
