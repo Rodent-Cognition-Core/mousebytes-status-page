@@ -2,6 +2,8 @@
 owner: Rodent-Cognition-Core # Your GitHub organization or username, where this repository lives
 repo: mousebytes-status-page # The name of this repository
 
+templateVersion: v1.42.4
+
 sites:
   - name: MouseBytes Production
     url: https://mousebytes.ca
