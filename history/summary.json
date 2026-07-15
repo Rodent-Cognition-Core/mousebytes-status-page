@@ -4,21 +4,22 @@
     "url": "https://mousebytes.ca",
     "icon": "https://icons.duckduckgo.com/ip3/mousebytes.ca.ico",
     "slug": "mouse-bytes-production",
-    "status": "down",
-    "uptime": "98.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.68%",
-    "time": 500,
-    "timeDay": 237,
-    "timeWeek": 303,
-    "timeMonth": 347,
-    "timeYear": 500,
+    "status": "up",
+    "uptime": "98.48%",
+    "uptimeDay": "84.82%",
+    "uptimeWeek": "97.83%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "98.48%",
+    "time": 496,
+    "timeDay": 238,
+    "timeWeek": 297,
+    "timeMonth": 343,
+    "timeYear": 496,
     "dailyMinutesDown": {
       "2026-05-04": 19,
       "2026-05-22": 1069,
-      "2026-05-21": 279
+      "2026-05-21": 279,
+      "2026-07-15": 219
     }
   }
 ]
